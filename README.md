@@ -1,5 +1,5 @@
 # Assignment 0 - Introduction to Git
-## Due: 1-16-2017
+## Due: 1-11-2017
 
 ## Author
 Jesse Meachum
